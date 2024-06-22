@@ -35,6 +35,8 @@ The dataset is based on Foreign Direct Investment, we are supposed to analyse th
 
 ![image](https://github.com/Rishi-Kalpa/Foreign-Direct-Investment-Data-Analysis/assets/98646729/4c73e62d-c3e2-4af5-95da-564c80b947b2)
 
+**LinkedIN Link**: https://www.linkedin.com/feed/update/urn:li:activity:7210373267461730304/
+
 The overview of dataset has been uploaded in the form of video demo showcasing the FDI internship
 
-Video Demo Link: https://lnkd.in/djA-fdTW
+**Video Demo Link**: https://lnkd.in/djA-fdTW
