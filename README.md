@@ -20,7 +20,7 @@ The dataset is based on Foreign Direct Investment, we are supposed to analyse th
 
 ![image](https://github.com/Rishi-Kalpa/Foreign-Direct-Investment-Data-Analysis/assets/98646729/5924b0dc-ac37-49c5-9ea2-e2f5c1a5bd2b)
 
-**Linechart**
+**Linechart**:
 
 ![image](https://github.com/Rishi-Kalpa/Foreign-Direct-Investment-Data-Analysis/assets/98646729/e90455b5-f306-40b8-a2f4-937f1af97425)
 
